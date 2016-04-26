@@ -1,25 +1,23 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Grace May
+excerpt: "Who is Grace May?"
+modified: 2016-04-26
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: UMWlogo.jpg
+  credit: University of Mary Washington
+  creditlink: https://eagleeye.umw.edu/2015/11/04/the-power-of-logos/
 ---
+## Who Am I?
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+* I am a senior graduating with a Bachelors of Arts in History this May.
+* Also I am obtaining a Post-Baccalaureate in Computer Science in December.
 
-## So Simple Theme is all about:
+## Currently What This Blog is About:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* A technical blog for my CPSC 350 Application to Databases' class.
+* What have I learned so far in 350?
+* What problems did I encounter while coding projects for this class?
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
