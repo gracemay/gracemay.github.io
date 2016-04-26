@@ -50,7 +50,7 @@ titlecase: true
 owner:
   name: Grace May
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: gmay@mail.umw.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -69,3 +69,4 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+  logo credit: https://logomakr.com/5YNkwR
