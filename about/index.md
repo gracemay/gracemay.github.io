@@ -4,9 +4,9 @@ title: About Grace May
 excerpt: "Who is Grace May?"
 modified: 2016-04-26
 image:
-  feature: UMWlogo.jpg
-  credit: University of Mary Washington
-  creditlink: https://eagleeye.umw.edu/2015/11/04/the-power-of-logos/
+  feature: Creek.jpg
+  credit: Grace May
+  creditlink: N/A
 ---
 ## Who Am I?
 
