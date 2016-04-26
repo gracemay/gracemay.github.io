@@ -10,7 +10,8 @@ image:
 ---
 ## Who Am I?
 
-* I am a senior graduating with a Bachelors of Arts in History this May.
+* I am a senior at the University of Mary Washington.
+* Graduating with a Bachelors of Arts in History in less than two weeks.
 * Also I am obtaining a Post-Baccalaureate in Computer Science in December.
 
 ## Currently What This Blog is About:
@@ -19,6 +20,5 @@ image:
 * What have I learned so far in 350?
 * What problems did I encounter while coding projects for this class?
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
