@@ -6,7 +6,7 @@ modified: 2016-04-26
 image:
   feature: Creek.jpg
   credit: Grace May
-  creditlink: N/A
+  thumb: thumbnail-image.jpg
 ---
 ## Who Am I?
 
