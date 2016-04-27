@@ -30,7 +30,7 @@ functionality that this project required.
 1. Formatting the Carousel. 
  * For the homepage, adding the carousel was difficult because I had to not only make sure that the pictures and it's description were showing up on the screen but I also had the problem of making sure that the carousel was formatted correctly to the rest of the website.
 
-~~~
+{% highlight html %}
 <div class="container">
   <br>
 
@@ -111,7 +111,7 @@ functionality that this project required.
     </a>
   </div>
 </div>
-~~~
+{% endhighlight html %}
 
 2. Adding the Search Bar.
  * Making the search bar took hours to code because I had to make sure that it was formatted into the side menu on the homepage.
