@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Blog 
+excerpt: Blog posts by Grace May
 search_omit: true
 ---
 
