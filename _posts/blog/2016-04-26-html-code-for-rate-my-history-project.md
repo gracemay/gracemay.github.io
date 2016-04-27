@@ -119,7 +119,6 @@ functionality that this project required.
 
 ~~~
 {% highlight html %}
-{% raw %}
 <li class="search">
     <form action = "/search.html">
         <!--border:2px solid white;-->
@@ -129,6 +128,5 @@ functionality that this project required.
         </div>
     </form>
 </li>
-{% endraw %}
 {% endhighlight html %}
 ~~~
