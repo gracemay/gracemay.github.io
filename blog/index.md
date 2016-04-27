@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog 
-excerpt: Blog posts by Grace May
+excerpt: Blog by Grace May
 search_omit: true
 ---
 
