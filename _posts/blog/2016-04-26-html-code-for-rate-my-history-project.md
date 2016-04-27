@@ -28,7 +28,7 @@ functionality that this project required.
 
 #### Problems that I had: ####
 1. Formatting the Carousel. 
---1. For the homepage, adding the carousel was difficult because I had to not only make sure that the pictures and it's description were showing up on the screen but I also had the problem of making sure that the carousel was formatted correctly to the rest of the website.
+ 1. For the homepage, adding the carousel was difficult because I had to not only make sure that the pictures and it's description were showing up on the screen but I also had the problem of making sure that the carousel was formatted correctly to the rest of the website.
 
 ~~~
 <div class="container">
@@ -114,8 +114,8 @@ functionality that this project required.
 ~~~
 
 2. Adding the Search Bar.
---1. Making the search bar took hours to code because I had to make sure that it was formatted into the side menu on the homepage.
---2. The text box had to be the correct height and width and also the submit button had to be a certain height and width. I found a magnifying glass icon to use as the submit button instead of the traditional submit button. I wanted it to stand out and it was difficult to do but I believe that the search box looks pretty good.
+ 1. Making the search bar took hours to code because I had to make sure that it was formatted into the side menu on the homepage.
+ 2. The text box had to be the correct height and width and also the submit button had to be a certain height and width. I found a magnifying glass icon to use as the submit button instead of the traditional submit button. I wanted it to stand out and it was difficult to do but I believe that the search box looks pretty good.
 
 ~~~
 <li class="search">
