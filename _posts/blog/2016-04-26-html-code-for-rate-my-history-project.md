@@ -118,7 +118,6 @@ functionality that this project required.
  * The text box had to be the correct height and width and also the submit button had to be a certain height and width. I found a magnifying glass icon to use as the submit button instead of the traditional submit button. I wanted it to stand out and it was difficult to do but I believe that the search box looks pretty good.
 
 ~~~
-{% highlight html %}
 <li class="search">
     <form action = "/search.html">
         <!--border:2px solid white;-->
@@ -128,5 +127,4 @@ functionality that this project required.
         </div>
     </form>
 </li>
-{% endhighlight html %}
 ~~~
