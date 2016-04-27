@@ -10,9 +10,11 @@ image:
 date: 2016-04-27T13:12:34
 ---
 
-[UMW Encore! Demo](https://cpsc350-gmay.c9users.io/) A website made during the Basic Flask and Flask PostgreSQL Rudiments for the UMW Encore! Club on campus.
+A website made during the Basic Flask and Flask PostgreSQL Rudiments for the UMW Encore! Club on campus.
 
-## Steps to Building a Flask Website
+Check out the website at: [UMW Encore! Demo](https://cpsc350-gmay.c9users.io/). 
+
+## Steps to Building a Flask Website ##
 1. Set up Cloud9.
 2. Install PostgreSQL for the database.
 3. Copy an HTML template to use for website.
@@ -21,7 +23,8 @@ date: 2016-04-27T13:12:34
 6. Create pages to emulate what the website is about.
 7. Also add pictures, videos etc. to the pages.
 
-## What I learned:
+## What I learned: ##
+
 #### The Good
 * Adding pages to a site are easy.
 * Adding paragraphs and videos are also easy.
