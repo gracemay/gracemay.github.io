@@ -12,23 +12,23 @@ date: 2016-04-26T15:39:55-04:00
 
 [Rate My History](https://ratemyhistory-gmay.c9users.io) was built in a group project with myself and four other 350 classmates.
 
-## What is *Rate My History*?
+### What is *Rate My History*? ###
 It is a website where historians and other people in the history-related academia field go to rate historical events and/or individuals.
 This site will help history students with deciding whether or not they should do a research paper and/or presentation on that historical event and/or person.
 
-## Contributing to Writing the HTML Code for *Rate My History*:
+### Contributing to Writing the HTML Code for *Rate My History*: ###
 
 I helped with the layout, search, and home page in the HTML for this website.
 
-### What I learned: ###
+#### What I learned: ####
 1. For the layout page, I worked on the code to make sure that the basic layout was what we wanted and that it looked decent and provided the correct
 functionality that this project required.
 2. For the search page, even though we didn't get a chance to finish working on this page, I had to find the right template that could work for our search results.
 3. For the homepage, I added a carousel of pictures and a table that displayed the historical event and/or person and the number of views it received. I also had to pick pictures for the homepage so that it didn't look bare. I also had to add the search bar to the homepage.
 
-### Problems that I had: ###
+#### Problems that I had: ####
 1. Formatting the Carousel. 
-..* For the homepage, adding the carousel was difficult because I had to not only make sure that the pictures and it's description were showing up on the screen but I also had the problem of making sure that the carousel was formatted correctly to the rest of the website.
+--1. For the homepage, adding the carousel was difficult because I had to not only make sure that the pictures and it's description were showing up on the screen but I also had the problem of making sure that the carousel was formatted correctly to the rest of the website.
 
 ~~~
 <div class="container">
@@ -113,9 +113,9 @@ functionality that this project required.
 </div>
 ~~~
 
-* Adding the Search Bar.
-..* Making the search bar took hours to code because I had to make sure that it was formatted into the side menu on the homepage.
-..* The text box had to be the correct height and width and also the submit button had to be a certain height and width. I found a magnifying glass icon to use as the submit button instead of the traditional submit button. I wanted it to stand out and it was difficult to do but I believe that the search box looks pretty good.
+2. Adding the Search Bar.
+--1. Making the search bar took hours to code because I had to make sure that it was formatted into the side menu on the homepage.
+--2. The text box had to be the correct height and width and also the submit button had to be a certain height and width. I found a magnifying glass icon to use as the submit button instead of the traditional submit button. I wanted it to stand out and it was difficult to do but I believe that the search box looks pretty good.
 
 ~~~
 <li class="search">
