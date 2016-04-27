@@ -123,7 +123,7 @@ functionality that this project required.
     <form action = "/search.html">
         <!--border:2px solid white;-->
         <div style="width:215px;height:40px;padding:5px;">
-            <input type="text" value="" name="searchengine", placeholder="Search"/>
+            <input type="text" value="" name="searchengine" placeholder="Search"/>
             <input type="image" src="http://findicons.com/files/icons/2260/iphone_toolbar/26/magnifyingglass.png" width="15" alt="Search">
         </div>
     </form>
