@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rate My History Project"
+author: grace_may
 modified:
 categories: blog
 excerpt:
