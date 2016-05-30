@@ -51,7 +51,8 @@ owner:
   name: Grace May
   avatar: bio-photo.jpg
   email: gmay@mail.umw.edu
-  disqus-shortname:
+  disqus-shortname: gmayblog
+  comments: true
   twitter: #username
   facebook: #username
   github: gracemay
