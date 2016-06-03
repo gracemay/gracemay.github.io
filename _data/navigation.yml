@@ -2,12 +2,25 @@
 
 - title: About
   url: /about/
+  
+- title: CPSC 350
+  url: /cpsc350/
+  - title: Articles
+    url: /cpsc350articles/
+    
+  - title: Blog
+    url: /cpsc350blog/
+    
+- title: Internships
+  url: /internships/
+  - title: LOC
+    url: /locinternship/
+    
+    - title: Articles
+      url: /articles/
 
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
+    - title: Blog
+      url: /blog/
 
 - title: Search
   url: /search/
